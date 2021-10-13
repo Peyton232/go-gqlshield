@@ -1,4 +1,4 @@
-<p align="center"><img src="media/shield.jpg" width="300"/></p>
+<p align="center"><img src="media/shield.png" width="300"/></p>
 
 # gqlshield
 Graphql Shield Implementation for Golang
