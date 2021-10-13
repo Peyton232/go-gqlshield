@@ -1,2 +1,2 @@
-# graphql-shield-go
+# gqlshield
 Graphql Shield Implementation for Golang
